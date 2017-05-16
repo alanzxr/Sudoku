@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ProfilingTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectTarget>
+    <TargetProject>00632092-8266-49a9-ae60-886858b46ac4</TargetProject>
+    <FriendlyName>Sudoku</FriendlyName>
+  </ProjectTarget>
+</ProfilingTarget>
